@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DemoGrassFlowers.unity
+    guid: 679e28dd92e786342b7944447228f70c
+  - enabled: 1
+    path: Assets/Scenes/solarSystem.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/s500/kepler.unity
+    guid: 6af4ba9714ba36c49bcd9ee9f8973d48
+  - enabled: 1
+    path: Assets/Scenes/inside kepler.unity
+    guid: aa7914d8779087441b0c9bf18688cc52
+  m_configObjects: {}
